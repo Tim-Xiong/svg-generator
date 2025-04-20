@@ -14,7 +14,6 @@ id,description,category
 12,a starlit night over snow-covered peaks,landscape
 13,khaki triangles and azure crescents,abstract
 14,a maroon dodecahedron interwoven with teal threads,abstract
-14,a peaceful meadow under a bright blue sky,landscapes
 15,a bright coral beach at midday,landscapes
 16,a misty morning over a tranquil fjord,landscapes
 17,an arctic tundra blanketed in snow,landscapes
@@ -164,3 +163,4 @@ id,description,category
 161,quilted puffer vest in bright red with zip pockets,fashion
 162,polka dot silk scarf in navy with white spots,fashion
 163,sheer kimono in floral chiffon with wide sleeves,fashion
+164,a peaceful meadow under a bright blue sky,landscapes

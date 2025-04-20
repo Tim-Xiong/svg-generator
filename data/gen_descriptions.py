@@ -222,7 +222,7 @@ def main():
     existing_descriptions = set()
     if append and os.path.exists(csv_path):
         global starting_id
-        starting_id = pd.read_csv(csv_path)["id"].max()
+        starting_id = pd.read_csv(csv_path)["id"].max() + 1
         existing_descriptions = read_existing_descriptions(csv_path)
         print(f"Found {len(existing_descriptions)} existing descriptions")
     
