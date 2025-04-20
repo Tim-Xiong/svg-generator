@@ -1,0 +1,23 @@
+kagglehub
+polars
+grpcio
+numpy
+pandas
+pyarrow
+protobuf
+defusedxml
+keras
+cairosvg
+bitsandbytes
+opencv-python
+matplotlib
+transformers
+accelerate
+openai
+tqdm
+dotenv
+
+# pip install 'tensorflow[and-cuda]'
+# pip install git+https://github.com/openai/CLIP.git
+# sudo apt-get update
+# sudo apt-get install -y build-essential

@@ -1,0 +1,166 @@
+id,description,category
+0,a purple forest at dusk,landscape
+1,gray wool coat with a faux fur collar,fashion
+2,a lighthouse overlooking the ocean,landscape
+3,burgundy corduroy pants with patch pockets and silver buttons,fashion
+4,orange corduroy overalls,fashion
+5,a purple silk scarf with tassel trim,fashion
+6,a green lagoon under a cloudy sky,landscape
+7,crimson rectangles forming a chaotic grid,abstract
+8,purple pyramids spiraling around a bronze cone,abstract
+9,magenta trapezoids layered on a transluscent silver sheet,abstract
+10,a snowy plain,landscape
+11,black and white checkered pants,fashion
+12,a starlit night over snow-covered peaks,landscape
+13,khaki triangles and azure crescents,abstract
+14,a maroon dodecahedron interwoven with teal threads,abstract
+14,a peaceful meadow under a bright blue sky,landscapes
+15,a bright coral beach at midday,landscapes
+16,a misty morning over a tranquil fjord,landscapes
+17,an arctic tundra blanketed in snow,landscapes
+18,rolling hills covered in wildflowers,landscapes
+19,a peaceful hillside dotted with grazing animals,landscapes
+20,a tranquil lake surrounded by mountains,landscapes
+21,a rocky outcrop with panoramic views,landscapes
+22,a tranquil beach with soft white sands,landscapes
+23,a hidden waterfall cascading into a serene pool,landscapes
+24,a serene bay with anchored sailboats,landscapes
+25,a peaceful orchard in full bloom,landscapes
+26,a shimmering ice field reflecting the sun,landscapes
+27,a calm river reflecting the changing leaves,landscapes
+28,a vibrant autumn forest ablaze with colors,landscapes
+29,a tranquil forest path lined with ferns,landscapes
+30,a lush jungle vibrant with life,landscapes
+31,a sunlit plateau with sprawling grasslands,landscapes
+32,a quiet pond with lily pads and frogs,landscapes
+33,an endless field of sunflowers reaching for the sky,landscapes
+34,a craggy shoreline kissed by foamy waves,landscapes
+35,a vibrant city skyline at twilight,landscapes
+36,a grassy hilltop with sweeping views,landscapes
+37,"a narrow canyon with steep, colorful walls",landscapes
+38,a secluded glen with singing streams,landscapes
+39,a winding path through golden autumn leaves,landscapes
+40,a deserted island surrounded by turquoise waters,landscapes
+41,a rocky plateau under a blanket of stars,landscapes
+42,a golden desert at sunset,landscapes
+43,a sunlit glade filled with chirping birds,landscapes
+44,a vibrant coral reef beneath crystal waters,landscapes
+45,a striking basalt cliff alongside a river,landscapes
+46,a verdant valley framed by majestic peaks,landscapes
+47,a remote mountain lake surrounded by pines,landscapes
+48,a quaint village nestled in rolling hills,landscapes
+49,an ancient forest bathed in moonlight,landscapes
+50,a colorful wildflower meadow in full bloom,landscapes
+51,a sun-drenched vineyard on a gentle slope,landscapes
+52,a lush garden bursting with colors,landscapes
+53,a windswept dune under a vast sky,landscapes
+54,a misty valley at dawn,landscapes
+55,a rocky cliff overlooking a shimmering sea,landscapes
+56,a rugged coastline with crashing waves,landscapes
+57,a colorful canyon painted by nature’s brush,landscapes
+58,a misty mountain range shrouded in clouds,landscapes
+59,an expansive savanna dotted with acacia trees,landscapes
+60,a secluded cove with clear blue waters,landscapes
+61,a foggy marsh with tall grasses swaying,landscapes
+62,a serene river winding through lush greenery,landscapes
+63,a dramatic volcanic landscape with black sands,landscapes
+64,a dance of teal waves and coral stripes in motion,abstract
+65,intermingled shades of peach and plum creating warmth,abstract
+66,a burst of burnt orange triangles against pale blue,abstract
+67,bright cyan squares floating in a sea of dark gray,abstract
+68,a chaotic arrangement of yellow and purple lines,abstract
+69,"bold, vibrant colors colliding in rhythmic patterns",abstract
+70,sapphire spirals intertwining with silver rectangles,abstract
+71,layers of olive and gold squares forming depth,abstract
+72,crimson and cobalt circles spiraling inward,abstract
+73,layered translucent shapes in shades of teal and jade,abstract
+74,sharp angles of black and white creating an illusion,abstract
+75,a cascade of fuchsia polygons on a cream backdrop,abstract
+76,golden circles overlapping with deep blue squares,abstract
+77,yellow triangles punctuated by black dots on white,abstract
+78,geometric clouds of gray juxtaposed with fiery reds,abstract
+79,a patchwork of deep reds and bright yellows,abstract
+80,a mosaic of lavender hexagons on a charcoal background,abstract
+81,woven threads of silver and burgundy forming landscapes,abstract
+82,turquoise lines radiating from a central ruby star,abstract
+83,a lattice of mauve and chartreuse intersecting forms,abstract
+84,chaotic lines of dark green tracing a golden background,abstract
+85,emerald diamonds scattered across a warm orange canvas,abstract
+86,diagonal lines of plum and mint creating tension,abstract
+87,bold black squares anchored by splashes of turquoise,abstract
+88,a whirl of soft lavender and sharp black angles,abstract
+89,soft pink spirals weaving through a canvas of cream,abstract
+90,a balanced composition of red circles and blue lines,abstract
+91,pulsating layers of orange and purple creating depth,abstract
+92,whispering curves of lavender on a deep black canvas,abstract
+93,a field of intersecting lines in soft earth tones,abstract
+94,a cluster of copper diamonds floating on deep azure,abstract
+95,a dynamic interplay of orange and teal shapes,abstract
+96,gentle curves of olive green and burnt sienna,abstract
+97,a field of gray circles encircled by vibrant yellows,abstract
+98,violet waves flowing through a grid of muted greens,abstract
+99,textured green rectangles layered over a soft beige,abstract
+100,intersecting teal and amber shapes on a stark white,abstract
+101,a swirl of pastel circles against a dark indigo field,abstract
+102,a burst of bright colors scattered across gentle curves,abstract
+103,jagged navy triangles contrasting against a light canvas,abstract
+104,golden rays emerging from a central violet orb,abstract
+105,cyan and magenta triangles creating visual tension,abstract
+106,pastel arcs dancing across a canvas of dark navy,abstract
+107,layered rectangles in shades of rose and steel gray,abstract
+108,a rhythmic pattern of orange and white stripes,abstract
+109,fractured shapes of green and gold evoking movement,abstract
+110,interlocking beige ovals on a vibrant cerulean base,abstract
+111,abstract black and white circles creating visual harmony,abstract
+112,crimson arcs and navy triangles creating dynamic tension,abstract
+113,overlapping shapes in muted tones of green and brown,abstract
+114,two-tone canvas slip-ons in navy and white,fashion
+115,soft ankle socks in pastel colors with a ribbed top,fashion
+116,luxe velvet dress in deep emerald with a wrap design,fashion
+117,soft merino wool pullover in muted lavender,fashion
+118,high-waisted shorts in a lightweight chambray fabric,fashion
+119,classic trench coat in beige with a tie belt,fashion
+120,soft fleece hoodie in light gray with a kangaroo pocket,fashion
+121,graphic tee in soft cotton with a vintage design,fashion
+122,satin camisole in blush pink with delicate lace trim,fashion
+123,plaid wool skirt with a high waist and pleats,fashion
+124,chevron knit blanket scarf in shades of gray,fashion
+125,classic white button-up shirt with a tailored fit,fashion
+126,cotton twill chinos in olive green with a slim fit,fashion
+127,floral print wrap dress with flutter sleeves,fashion
+128,denim overalls with a relaxed fit and side buttons,fashion
+129,chunky heeled sandals in tan leather with ankle strap,fashion
+130,sleek pencil skirt in faux leather with a back slit,fashion
+131,fitted turtleneck in soft cotton in rich burgundy,fashion
+132,knitted cardigan in soft beige with patch pockets,fashion
+133,sleek black leather ankle boots with a pointed toe,fashion
+134,canvas sneakers in bright yellow with white soles,fashion
+135,elegant silk blouse featuring ruffled cuffs,fashion
+136,cropped bomber jacket in olive green with ribbed cuffs,fashion
+137,vibrant floral maxi dress with a cinched waist,fashion
+138,soft flannel shirt in checkered red and black,fashion
+139,chunky knit scarf in cream with fringed edges,fashion
+140,tailored trousers in classic black with a straight cut,fashion
+141,lightweight denim jacket with frayed hem and pockets,fashion
+142,leather crossbody bag with an adjustable strap,fashion
+143,striped linen shirt with rolled-up sleeves,fashion
+144,flowy midi skirt with a watercolor print,fashion
+145,soft jersey t-shirt in pastel pink with a crew neck,fashion
+146,ribbed knit beanie in charcoal gray,fashion
+147,soft cashmere sweater in a rich navy blue,fashion
+148,vintage-inspired high-waisted jeans in dark wash,fashion
+149,cotton sundress in bright yellow with a flared skirt,fashion
+150,distressed denim jacket with a faded finish,fashion
+151,lightweight parka in navy with a hood and drawstrings,fashion
+152,pleated satin trousers in metallic gold,fashion
+153,distressed boyfriend jeans with a relaxed silhouette,fashion
+154,wool beanie in forest green with a cuffed edge,fashion
+155,mesh-paneled leggings for active wear,fashion
+156,canvas tote bag with a bold graphic print,fashion
+157,long-sleeve wrap top in crisp white with a tie detail,fashion
+158,midi dress in a bold animal print with a flowy hem,fashion
+159,tailored shorts in crisp white with a hidden zipper,fashion
+160,fitted blazer in a rich burgundy hue,fashion
+161,quilted puffer vest in bright red with zip pockets,fashion
+162,polka dot silk scarf in navy with white spots,fashion
+163,sheer kimono in floral chiffon with wide sleeves,fashion
