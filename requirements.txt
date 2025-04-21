@@ -16,6 +16,9 @@ accelerate
 openai
 tqdm
 dotenv
+diffusers
+safetensors
+xformers
 
 # pip install 'tensorflow[and-cuda]'
 # pip install git+https://github.com/openai/CLIP.git
