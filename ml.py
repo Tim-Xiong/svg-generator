@@ -25,8 +25,8 @@ class MLModel:
         self.constraints = svg_constraints.SVGConstraints()
         self.timeout_seconds = 90
     
-    def predict(self, description, simplify=True, color_precision=6, 
-                gradient_step=10, filter_speckle=4, path_precision=8):
+    def predict(self, description, simplify=True, color_precision=6,
+                filter_speckle=4, path_precision=8):
         """
         Generate an SVG from a text description.
         
@@ -34,7 +34,6 @@ class MLModel:
             description (str): The text description to generate an image from.
             simplify (bool): Whether to simplify the SVG paths.
             color_precision (int): Color quantization precision.
-            gradient_step (int): Gradient step for color quantization (not used by vtracer).
             filter_speckle (int): Filter speckle size.
             path_precision (int): Path fitting precision.
             
