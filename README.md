@@ -2,6 +2,8 @@
 
 A Streamlit application that converts text descriptions into SVG graphics using multiple AI models.
 
+Access demo app by this [link](https://huggingface.co/spaces/Timxjl/text2svg-demo-app)
+
 ## Overview
 
 This project allows users to create vector graphics (SVG) from text descriptions using three different approaches:
