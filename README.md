@@ -156,10 +156,6 @@ drawing-with-llm/             # Root directory
 └── starvector/               # StarVector Python package
 ```
 
-## License
-
-[Specify your license information here]
-
 ## Acknowledgments
 
 This project utilizes several key technologies:
