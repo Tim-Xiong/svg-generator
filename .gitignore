@@ -7,6 +7,7 @@ star-vector/
 SVGDreamer/
 *.parquet
 *.pth
+diff_image.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

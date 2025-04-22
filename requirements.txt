@@ -25,6 +25,8 @@ vtracer==0.6.11
 deepspeed==0.16.7
 torch==2.5.1
 torchvision==0.20.1
+streamlit==1.44.1
+lxml==5.3.2
 
 # pip install 'tensorflow[and-cuda]'
 # pip install git+https://github.com/openai/CLIP.git
