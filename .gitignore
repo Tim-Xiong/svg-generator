@@ -1,3 +1,5 @@
+unsloth_compiled_cache/
+*.ipynb
 star-vector/
 SVGDreamer/
 *.parquet

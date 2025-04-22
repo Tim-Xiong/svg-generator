@@ -35,7 +35,7 @@ class ImageGenerator:
             num_images (int, optional): Number of images to generate.
                 
         Returns:
-            PIL.Image.Image: The generated image.
+            list[PIL.Image.Image]: The generated images.
         """
         prompt = f"{prompt}, {self.positive_prompt}"
         if negative_prompt is None:
@@ -51,7 +51,7 @@ class ImageGenerator:
             for i, image in enumerate(images):
                 image.save(f".cache/{output_path.replace('.png', f'_{i}.png')}")
             
-        return image
+        return images
 
 # Example usage
 if __name__ == "__main__":

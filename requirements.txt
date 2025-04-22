@@ -19,6 +19,12 @@ dotenv
 diffusers
 safetensors
 xformers
+unsloth
+tf-keras
+vtracer
+deepspeed
+torch==2.5.1
+torchvision==0.20.1
 
 # pip install 'tensorflow[and-cuda]'
 # pip install git+https://github.com/openai/CLIP.git
